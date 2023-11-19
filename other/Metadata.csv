@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,2201117TI,1698563422034,2023-10-29_07-10-22,Asia/Kolkata,android,1.18.0,a100bff8-df82-4621-8123-ff86dc02ee27,Accelerometer|Annotation|TotalAcceleration|AccelerometerUncalibrated,10||10|10
